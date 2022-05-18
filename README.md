@@ -75,3 +75,7 @@
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&section=footer&text=The%20End&animation=fadeIn&fontSize=30)
+
+# Comments about my ReadMe
+
+<img style="width:183px;" src="https://blog.kakaocdn.net/dn/c7zeyJ/btrCrBbsL5k/K4KWeFKRYVaTVlwkUZRrN1/img.png"><img style="width:800px;" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnPSGH%2FbtrCqodc5QK%2Fhs66VbFCtQ6iymQbXoYnPk%2Fimg.jpg">
