@@ -48,12 +48,12 @@
 
 # My record diary
 
-|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|Date|Blog|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|5/18|<a href="https://github.com/hanseungjune/hanseungjune/edit/main/README.md">Main_ReadMe</a>|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|
-|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|
-|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|
-|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|Cell1|Cell2|
+|Date|Blog|
+|--|--|
+|5/18|<a href="https://github.com/hanseungjune/hanseungjune/edit/main/README.md">Main_ReadMe</a>|
+|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
 
 |Date|Project&nbsp;&nbsp;&nbsp;&nbsp;|
 |--|--|
