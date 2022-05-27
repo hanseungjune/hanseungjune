@@ -52,13 +52,13 @@
 |--|--|
 |5/18|<a href="https://github.com/hanseungjune/hanseungjune/edit/main/README.md">Main_ReadMe</a>|
 |5/1|<a href="https://github.com/hanseungjune/Daegu-AI">DaeguAISchool_FrontEnd</a>|
-|Cell1|Cell2|
+|Cell1|Cell1|
 |Cell1|Cell2|
 
 |Date|Project&nbsp;&nbsp;&nbsp;&nbsp;|
 |--|--|
 |5/18|<a href="https://github.com/hanseungjune/hanseungjune/edit/main/README.md">Main_ReadMe</a>|
-|Cell1|Cell2|
+|5/27|<a href="https://github.com/hanseungjune/HeckCHa_Template-made-in-SJ-">Heckcha</a>|
 |Cell1|Cell2|
 |Cell1|Cell2|
 
