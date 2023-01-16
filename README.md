@@ -14,6 +14,10 @@
 여러 라이브러리를 경험해보려고 합니다! 그럼 이만 안녕😊<br>
 </div>
 
+<br>
+<br>
+<br>
+
 <div align=center>
 <h2>⭐ Technology Stack </h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -69,7 +73,7 @@
 
 <div align="center">
 
-<h2>🗂️ Most Used Languages</h2>
+<h2>💫 Most Used Languages</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseungjune&layout=compact)]
 
@@ -83,9 +87,13 @@
 
 </div>
 
+<br>
+<br>
+<br>
+
 <div align="center">
 
-<h2>💯 My Project</h2>
+<h2>🗂️ My Project</h2>
 
 </div>
 	
