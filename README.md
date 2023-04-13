@@ -50,6 +50,7 @@
 <h2>🏆 Baekjoon solved rank</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune)](https://solved.ac/hanseungjune)<br/>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
@@ -61,7 +62,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanseungjune)](https://velog.io/@hanseungjune/DAY10-2%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-float-z-index)
 
-<h2>🕙 elog Posts... </h2>	
+<h2>🕙 Velog Posts... </h2>	
 	
 |번호|제목|날짜|상태|
 |:---:|:---:|:---:|:---:|
