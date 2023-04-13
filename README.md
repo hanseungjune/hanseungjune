@@ -55,22 +55,6 @@
 
 <br>
 
-<div align="center">
-
-<h2>💫 Most Used Languages</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseungjune&layout=compact)
-
-<br>
-	
-<h2>💯 My GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hanseungjune&show_icons=true">
-
-</div>
-
-<br>
-
 <div align=center>
 
 <h2>✏️ Most Recent Velog Posts</h2>
