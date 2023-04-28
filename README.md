@@ -462,6 +462,9 @@
 |1|<a href="https://velog.io/@hanseungjune/-4DAY%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-AI-%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%A1%A0">[DAY1]_개발일지: AI 기본이론</a>|2022년 4월 13일|Public|
 	
 </div>
+  
+
+
 
 <br>
 
