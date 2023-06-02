@@ -73,7 +73,7 @@
 <br>
 
 <div>
-  <h2>🏆 Baekjoon solved rank</h2>
+  <h2>🏆 Baekjoon solved rank(알고리즘 및 코딩테스트 학습)</h2>
   <a href="https://solved.ac/hanseungjune">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
   </a><br/>
@@ -85,10 +85,10 @@
 
 <div>
 
-<h2>✏️ Most Recent Velog Posts</h2>
+<h2>✏️ Most Recent Velog Posts(벨로그 최근 게시물)</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanseungjune)](https://velog.io/@hanseungjune/DAY10-2%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-float-z-index)
-
+	
 </div>
 
 <div>
