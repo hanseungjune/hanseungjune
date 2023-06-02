@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 <div align=center>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=I'm%20FrontEnd%20Developer&height=150&fontSize=60&desc=hanseungjune&descAlignY=75&descAlign=60)
@@ -50,7 +52,7 @@
   <h2>🏆 Baekjoon solved rank</h2>
   <a href="https://solved.ac/hanseungjune">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
-  </a>
+  </a><br/>
   <span>2023.01 - 2023.05 &#8594; Python</span><br/>
   <span class="bold-text">2023.05 - 현재 &#8594; Java, JavaScript</span><br/>
 </div>
