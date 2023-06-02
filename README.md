@@ -34,25 +34,25 @@
 <div align=center>
 <h2>🎨 SNS & Blogs</h2>
 <a href="https://www.instagram.com/just_chimii/">
-<img src="https://img.shields.io/badge/Instagram-A100FF?style=flat&logo=Instagram&logoColor=white" />
-</a>
+	<img src="https://img.shields.io/badge/Instagram-A100FF?style=flat&logo=Instagram&logoColor=white" />
+</a> &#8594; <span>소통을 위한 소셜네트워크</span><br/>
 <a href="https://velog.io/@hanseungjune">
-<img src="https://img.shields.io/badge/Velog-4EE3C2?style=flat&logo=Velog&logoColor=white" />
-</a>
+	<img src="https://img.shields.io/badge/Velog-4EE3C2?style=flat&logo=Velog&logoColor=white" />
+</a> &#8594; <span>학습 기록용 블로그</span><br/>
 <a href="https://www.notion.so/Portfolio-_hanseungjune-4b672cba8c42446aacc2c684c4f440c4">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a> &#8594; <span>나의 포트폴리오 페이지</span><br/>
 </div>  
 
 <br>
 
-<div align="center">
+<div align="center" class="container">
   <h2>🏆 Baekjoon solved rank</h2>
-  <strong><p>2023.01 - 2023.05 : Python</p></strong>
-  <strong><p>2023.05 - 현재 : Java, JavaScript</p></strong>
   <a href="https://solved.ac/hanseungjune">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
   </a>
+  <span>2023.01 - 2023.05 &#8594; Python</span><br/>
+  <span class="bold-text">2023.05 - 현재 &#8594; Java, JavaScript</span><br/>
 </div>
 
 <br>
