@@ -53,8 +53,6 @@
   <a href="https://solved.ac/hanseungjune">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
   </a>
-  <br>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile 3D Contribution">
 </div>
 
 <br>
