@@ -6,65 +6,93 @@
 
 </div>
 
-<div align=center>
-<h2>👌 Introduction</h2>
-<strong>저는 서버의 번역가인, 프론트엔드 엔지니어입니다.</strong><br/>
-프론트엔드의 핵심 키워드는 사용자를 위한 UI/UX 입니다. <br/>하지만 회사에서 사용자들에게 말하고자 하는 것이 무엇인지 명확하고 슬기롭게 보여주는 것도 프론트엔드라고 생각합니다. <br/>그래서 회사가 고객들에게 보여주고자 하는 것들을 잘 전달하는 프론트엔드 엔지니어가 되기 위해 노력하고 있습니다.<br/> 현재는 웹을 다루고 있지만, 사용자들에게 보여주기 위한 모든 기술을 받아들일 준비가 되어있습니다
+<div>
+	<h2>👌 Introduction</h2>
+	<h3>React로 Think를 보여주는 FE, 한승준 입니다.</h3>
+	• <strong>고객의 생각</strong>: 서비스 편의성을 고려하여 UI/UX 기획하고 설계하는 FE<br/>
+	• <strong>회사의 생각</strong>: 비즈니스 모델을 위화감 없이 전달하기 위해 표현하는 FE<br/>
+	• <strong>동료의 생각</strong>: 동료의 생각을 이해하기 위해 활발한 커뮤니케이션으로 일을 진행하고 문제를 해결하는 FE
 </div>
 
 <br>
 
-<div align=center>
-<h2>⭐ Technology Stack </h2>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-saga-999999?style=flat&logo=Redux-saga&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-	<br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<div>
+    <h2>⭐ Technology Programming Language</h2>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> : <b>FE 메인 사용 언어(코딩테스트, 프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> : <b>가독성이 필요한 규모가 큰 프로젝트에 사용(프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> : <b>알고리즘 학습 기초 언어(알고리즘)</b><br/>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> : <b>코딩테스트 학습 언어(코딩테스트)</b>
+</div><br/>
+<div>
+    <h2>⭐ Technology Library & FrameWork</h2>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> : <b>FE 메인 사용 라이브러리 및 프레임워크(프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> : <b>규모가 큰 경우에 데이터 상태관리를 위하여 사용</b><br/>
+    <img src="https://img.shields.io/badge/Redux-saga-999999?style=flat&logo=Redux-saga&logoColor=white" /> : <b>전역으로 API를 요청하여 결과값을 받아오기 위함일 때</b><br/>
+    <img src="https://img.shields.io/badge/React--query-FF4154?style=flat&logo=React&logoColor=white" /> : <b>React 애플리케이션의 데이터 페칭과 캐싱을 위한 라이브러리</b><br/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> : <b>FE 서브 사용 라이브러리 및 프레임워크(프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=Vue.js&logoColor=white" /> : <b>Vue 애플리케이션의 상태 관리를 위한 공식 라이브러리</b><br/>
+	<img src="https://img.shields.io/badge/zustand-FF4154?style=flat&logo=React&logoColor=white" /> : <b>React 애플리케이션의 상태 관리를 위한 간단하고 직관적인 라이브러리</b><br/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /> : <b>Python으로 작성된 고성능 웹 프레임워크</b><br/>
+    <img src="https://img.shields.io/badge/react--qr--reader-4FC08D?style=flat&logo=React&logoColor=white" /> : <b>React에서 QR 코드를 읽는 라이브러리</b><br/>
+    <img src="https://img.shields.io/badge/react--qr--code-4FC08D?style=flat&logo=React&logoColor=white" /> : <b>React에서 QR 코드를 생성하는 라이브러리</b><br/>
+    <img src="https://img.shields.io/badge/react--kakao--map--sdk-FFCD00?style=flat&logo=React&logoColor=white" /> : <b>React에서 카카오 지도를 사용하는 라이브러리</b>
+</div><br/>
+<div>
+    <h2>⭐ Technology style-sheet Language</h2>
+    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white" /> : <b>FE 서브 스타일시트 언어(프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" /> : <b>FE 기본 스타일시트 언어(프로젝트)</b><br/>
+    <img src="https://img.shields.io/badge/CSS--modules-1572B6?style=flat&logo=CSS3&logoColor=white" /> : <b>CSS 모듈을 사용하여 스타일을 관리하는 방식</b><br/>
+    <img src="https://img.shields.io/badge/Emotion.js-DB7093?style=flat&logo=emotion&logoColor=white" /> : <b>JSX에 CSS-in-JS를 사용하여 스타일을 작성하는 라이브러리</b>
+</div><br/>
+<div>
+    <h2>⭐ Technology Collaboration Tools & MarkUp Tools</h2>
+    <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" /> : <b>버전 관리 및 협업을 위한 분산 버전 관리 시스템</b><br/>
+    <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white" /> : <b>소프트웨어 개발을 위한 이슈 추적 및 프로젝트 관리 도구</b><br/>
+    <img src="https://img.shields.io/badge/mattermost-0072C6?style=flat&logo=mattermost&logoColor=white" /> : <b>개인 및 팀 간의 실시간 커뮤니케이션 및 협업 플랫폼</b><br/>
+    <img src="https://img.shields.io/badge/teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white" /> : <b>온라인 회의, 채팅 및 협업 도구</b><br/>
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" /> : <b>디자인 프로토타이핑 및 협업 도구</b><br/>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> : <b>웹 페이지 개발을 위한 프론트엔드 프레임워크</b><br/>
+    <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white" /> : <b>재사용 가능한 UI 컴포넌트를 제공하는 React UI 라이브러리</b>
 </div>
 
 <br>
 
-<div align=center>
-<h2>🎨 SNS & Blogs</h2>
-<a href="https://www.instagram.com/just_chimii/">
-	<img src="https://img.shields.io/badge/Instagram-A100FF?style=flat&logo=Instagram&logoColor=white" />
-</a> &#8594; <span>소통을 위한 소셜네트워크</span><br/>
-<a href="https://velog.io/@hanseungjune">
-	<img src="https://img.shields.io/badge/Velog-4EE3C2?style=flat&logo=Velog&logoColor=white" />
-</a> &#8594; <span>학습 기록용 블로그</span><br/>
-<a href="https://www.notion.so/Portfolio-_hanseungjune-4b672cba8c42446aacc2c684c4f440c4">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a> &#8594; <span>나의 포트폴리오 페이지</span><br/>
+<div>
+	<h2>🎨 SNS & Blogs</h2>
+	<a href="https://www.instagram.com/just_chimii/">
+		<img src="https://img.shields.io/badge/Instagram-A100FF?style=flat&logo=Instagram&logoColor=white" />
+	</a> &#8594; <b>소통을 위한 소셜네트워크</b><br/>
+	<a href="https://velog.io/@hanseungjune">
+		<img src="https://img.shields.io/badge/Velog-4EE3C2?style=flat&logo=Velog&logoColor=white" />
+	</a> &#8594; <b>학습 기록용 블로그</b><br/>
+	<a href="https://www.notion.so/Portfolio-_hanseungjune-4b672cba8c42446aacc2c684c4f440c4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a> &#8594; <b>나의 포트폴리오 페이지</b><br/>
 </div>  
 
 <br>
 
-<div align="center" class="container">
+<div>
   <h2>🏆 Baekjoon solved rank</h2>
   <a href="https://solved.ac/hanseungjune">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
   </a><br/>
-  <span>2023.01 - 2023.05 &#8594; Python</span><br/>
-  <span class="bold-text">2023.05 - 현재 &#8594; Java, JavaScript</span><br/>
+  <b>2023.01 - 2023.05 &#8594; Python</b><br/>
+  <b>2023.05 - 현재 &#8594; Java, JavaScript</b>
 </div>
 
 <br>
 
-<div align=center>
+<div>
 
 <h2>✏️ Most Recent Velog Posts</h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hanseungjune)](https://velog.io/@hanseungjune/DAY10-2%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-float-z-index)
 
+</div>
+
+<div>
+	
 <h2>🕙 Velog Posts... </h2>	
 	
 |번호|제목|날짜|상태|
