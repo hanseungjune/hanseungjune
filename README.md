@@ -46,12 +46,15 @@
 
 <br>
 
-<div align=center>
-<h2>🏆 Baekjoon solved rank</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune)](https://solved.ac/hanseungjune)<br/>
-![](./profile-3d-contrib/profile-green-animate.svg)
-
+<div align="center">
+  <h2>🏆 Baekjoon solved rank</h2>
+  <strong><p>2023.01 - 2023.05 : Python</p></strong>
+  <strong><p>2023.05 - 현재 : Java, JavaScript</p></strong>
+  <a href="https://solved.ac/hanseungjune">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" alt="Solved.ac Profile">
+  </a>
+  <br>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Profile 3D Contribution">
 </div>
 
 <br>
