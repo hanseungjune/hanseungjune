@@ -8,7 +8,7 @@
 
 <div>
 	<h2>👌 Introduction</h2>
-	<h3>React로 Think를 보여주는 프론트엔드, 한승준 입니다.</h3>
+	<h3>React로 Think를 보여주는 프론트엔드 개발자, 한승준 입니다.</h3>
 	• <strong>고객의 생각</strong>: 서비스 편의성을 고려하여 UI/UX 기획하고 설계하는 FE<br/>
 	• <strong>회사의 생각</strong>: 비즈니스 모델을 위화감 없이 전달하기 위해 표현하는 FE<br/>
 	• <strong>동료의 생각</strong>: 동료의 생각을 이해하기 위해 활발한 커뮤니케이션으로 일을 진행하고 문제를 해결하는 FE
