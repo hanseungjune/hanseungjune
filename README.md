@@ -97,26 +97,26 @@
 	
 |번호|제목|날짜|상태|
 |:---:|:---:|:---:|:---:|
-|419|<a href=""></a>|2023년 4월 16일|Public|
-|418|<a href=""></a>|2023년 4월 16일|Public|
-|417|<a href=""></a>|2023년 4월 16일|Public|
-|416|<a href=""></a>|2023년 4월 16일|Public|
-|415|<a href=""></a>|2023년 4월 16일|Public|
-|414|<a href=""></a>|2023년 4월 16일|Public|
-|413|<a href=""></a>|2023년 4월 16일|Public|
-|412|<a href=""></a>|2023년 4월 16일|Public|
-|411|<a href=""></a>|2023년 4월 16일|Public|
-|410|<a href=""></a>|2023년 4월 16일|Public|
-|409|<a href=""></a>|2023년 4월 16일|Public|
-|408|<a href=""></a>|2023년 4월 16일|Public|
-|407|<a href=""></a>|2023년 4월 16일|Public|
-|406|<a href=""></a>|2023년 4월 16일|Public|
-|405|<a href=""></a>|2023년 4월 16일|Public|
-|404|<a href=""></a>|2023년 4월 16일|Public|
-|403|<a href=""></a>|2023년 4월 16일|Public|
-|402|<a href=""></a>|2023년 4월 16일|Public|
-|401|<a href=""></a>|2023년 4월 16일|Public|
-|400|<a href=""></a>|2023년 4월 16일|Public|
+|418|<a href="https://velog.io/@hanseungjune/WantedCICD-with-GitHub-Actions">[Wanted]_CI/CD with GitHub Actions</a>|2023년 6월 30일|Public|
+|417|<a href="https://velog.io/@hanseungjune/Wanted%EC%84%9C%EB%B2%84%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85-%EA%B7%B8%EB%A6%AC%EA%B3%A0-AWS">[Wanted]_서버와 클라우드 컴퓨팅 그리고 AWS</a>|2023년 6월 30일|Public|
+|416|<a href="https://velog.io/@hanseungjune/Wanted%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%8A%B9%EA%B0%95">[Wanted]_커리어 특강</a>|2023년 6월 29일|Private|
+|415|<a href="https://velog.io/@hanseungjune/Java-JS2589%EB%B3%B4%EB%AC%BC%EC%84%AC">[Java, JS]_2589_보물섬</a>|2023년 6월 28일|Public|
+|414|<a href="https://velog.io/@hanseungjune/Java-JS5639%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-%ED%8A%B8%EB%A6%AC">[Java, JS]_5639_이진 검색 트리</a>|2023년 6월 28일|Public|
+|413|<a href="https://velog.io/@hanseungjune/Wanted%EA%B3%BC%EC%A0%9C%EB%A5%BC-%ED%95%98%EA%B8%B0%EC%97%90-%EC%95%9E%EC%84%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%ED%8C%80%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B2%95-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B8%B0%EB%B3%B8%EA%B8%B0">[Wanted]_과제를 하기에 앞서 알아야 할 팀으로 일하는 법, 개발자의 기본기</a>|2023년 6월 27일|Public|
+|412|<a href="https://velog.io/@hanseungjune/Wanted%EC%9D%B4%EB%A0%A5%EC%84%9C-%ED%8A%B9%EA%B0%95">[Wanted]_이력서 특강</a>|2023년 6월 26일|Private|
+|411|<a href="https://velog.io/@hanseungjune/Java-JS2467%EC%9A%A9%EC%95%A1">[Java, JS]_2467_용액</a>|2023년 6월 25일
+|Public|
+|410|<a href="https://velog.io/@hanseungjune/Java-JS2667%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0">[Java, JS]_2667_단지번호붙이기</a>|2023년 6월 25일|Public|
+|409|<a href="https://velog.io/@hanseungjune/%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91Promise%EC%99%80-Callback-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94">[기술면접]_프론트엔드_문제_은행_30선 + &(1)</a>|2023년 6월 23일|Public|
+|408|<a href="https://velog.io/@hanseungjune/Java-JS2606%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4">[Java, JS]_2606_바이러스</a>|2023년 6월 23일|Public|
+|407|<a href="https://velog.io/@hanseungjune/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0DFSBFS">[자료구조]_DFS/BFS</a>|2023년 6월 23일|Public|
+|406|<a href="https://velog.io/@hanseungjune/Java-JS2178%EB%AF%B8%EB%A1%9C-%ED%83%90%EC%83%89">[Java, JS]_2178_미로 탐색</a>|2023년 6월 23일|Public|
+|405|<a href="https://velog.io/@hanseungjune/Java-JS1260DFS%EC%99%80-BFS">[Java, JS]_1260_DFS와 BFS</a>|2023년 6월 19일|Public|
+|404|<a href="https://velog.io/@hanseungjune/Java-JS16953A-B">[Java, JS]_16953_A → B</a>|2023년 6월 17일|Public|
+|403|<a href="https://velog.io/@hanseungjune/Java-JS2583%EC%98%81%EC%97%AD-%EA%B5%AC%ED%95%98%EA%B8%B0">[Java, JS]_2583_영역 구하기</a>|2023년 6월 16일|Public|
+|402|<a href="https://velog.io/@hanseungjune/Java-JS7562%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%9D%B4%EB%8F%99">[Java, JS]_7562_나이트의 이동</a>|2023년 6월 15일|Public|
+|401|<a href="https://velog.io/@hanseungjune/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8">[자료구조]_연결리스트</a>|2023년 6월 15일|Public|
+|400|<a href="https://velog.io/@hanseungjune/Java-JS6603%EB%A1%9C%EB%98%90">[Java, JS]_6603_로또</a>|2023년 6월 13일|Public|
 |399|<a href="[https://velog.io/@hanseungjune/%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8](https://velog.io/@hanseungjune/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91)">[면접]_인성면접</a>|2023년 6월 9일|Private|
 |398|<a href="https://velog.io/@hanseungjune/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8">[면접은행]_FE_인성면접_질문리스트_모음집
 </a>|2023년 6월 9일|Private|
