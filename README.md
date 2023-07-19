@@ -65,7 +65,7 @@
   <h2>🏆 백준 랭크</h2>
 
   <a href="https://solved.ac/hanseungjune">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune)](https://solved.ac/hanseungjune)
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=hanseungjune" 
   </a>
 
   <br/>
