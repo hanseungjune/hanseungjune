@@ -121,7 +121,7 @@
 |402|<a href="https://velog.io/@hanseungjune/Java-JS7562%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%9D%B4%EB%8F%99">[Java, JS]_7562_나이트의 이동</a>|2023년 6월 15일|Public|
 |401|<a href="https://velog.io/@hanseungjune/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8">[자료구조]_연결리스트</a>|2023년 6월 15일|Public|
 |400|<a href="https://velog.io/@hanseungjune/Java-JS6603%EB%A1%9C%EB%98%90">[Java, JS]_6603_로또</a>|2023년 6월 13일|Public|
-|399|<a href="[https://velog.io/@hanseungjune/%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8](https://velog.io/@hanseungjune/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91)">[면접]_인성면접</a>|2023년 6월 9일|Private|
+|399|<a href="https://velog.io/@hanseungjune/%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8">[면접]_인성면접</a>|2023년 6월 9일|Private|
 |398|<a href="https://velog.io/@hanseungjune/%EC%9D%B8%EC%84%B1%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8">[면접은행]_FE_인성면접_질문리스트_모음집</a>|2023년 6월 9일|Private|
 |397|<a href="https://velog.io/@hanseungjune/%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91%EC%A7%88%EB%AC%B8%EB%A6%AC%EC%8A%A4%ED%8A%B8">[면접은행]_FE_직무면접_질문리스트_모음집</a>|2023년 6월 8일|Private|
 |396|<a href="https://velog.io/@hanseungjune/%EB%A9%B4%EC%A0%91%EC%A7%81%EB%AC%B4%EB%A9%B4%EC%A0%91">[면접]_직무면접</a>|2023년 6월 8일|Public|
