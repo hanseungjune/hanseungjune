@@ -91,12 +91,12 @@
 |번호|제목|날짜|상태|
 |:---:|:---:|:---:|:---:|
 |440|<a href=""></a>|2023년 7월 5일|Public|
-|439|<a href=""></a>|2023년 7월 5일|Public|
-|438|<a href=""></a>|2023년 7월 5일|Public|
-|437|<a href=""></a>|2023년 7월 5일|Public|
-|436|<a href=""></a>|2023년 7월 5일|Public|
-|435|<a href=""></a>|2023년 7월 5일|Public|
-|434|<a href="https://velog.velcdn.com/images/hanseungjune/post/396f97ed-7c5b-41a8-b8ea-92772c3105aa/image.png">[JavaScript]_Public class fields</a>|2023년 7월 6일|Public|
+|439|<a href="https://velog.io/@hanseungjune/WantedWeek2-2%EC%9D%98%EC%A1%B4%EC%84%B1">[Wanted]_Week2-2_의존성</a>|2023년 7월 7일|Public|
+|438|<a href="https://velog.io/@hanseungjune/WantedWeek2-2%ED%9A%A1%EB%8B%A8-%EA%B4%80%EC%8B%AC%EC%82%AC">[Wanted]_Week2-2_횡단 관심사</a>|2023년 7월 7일|Public|
+|437|<a href="https://velog.io/@hanseungjune/WantedWeek2-2%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98-%EB%B6%84%EB%A6%AC%EC%99%80-SRP-Custom-Hook">[Wanted]_Week2-2_관심사의 분리와 SRP, Custom Hook</a>|2023년 7월 7일|Public|
+|436|<a href="https://velog.io/@hanseungjune/Java-JS1038%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94-%EC%88%98">[Java, JS]_1038_감소하는 수</a>|2023년 7월 7일|Public|
+|435|<a href="https://velog.io/@hanseungjune/Java-JS15486%ED%87%B4%EC%82%AC2">[Java, JS]_15486_퇴사2</a>|2023년 7월 6일|Public|
+|434|<a href="https://velog.io/@hanseungjune/JavaScriptPublic-class-fields">[JavaScript]_Public class fields</a>|2023년 7월 6일|Public|
 |433|<a href="https://velog.io/@hanseungjune/JavaScriptPrivate-class-features">[JavaScript]_Private class features</a>|2023년 7월 6일|Public|
 |432|<a href="https://velog.io/@hanseungjune/JavaScriptContructor">[JavaScript]_Contructor</a>|2023년 7월 6일|Public|
 |431|<a href="https://velog.io/@hanseungjune/JavaScriptClasses">[JavaScript]_Class</a>|2023년 7월 6일|Public|
