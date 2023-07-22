@@ -90,6 +90,8 @@
 	
 |번호|제목|날짜|상태|
 |:---:|:---:|:---:|:---:|
+|450|<a href=""></a>|2023년 7월 16일|Public|
+|449|<a href="https://velog.io/@hanseungjune/WantedWeek3-1Redux">[Wanted]_Week3-1_Redux</a>|2023년 7월 15일|Public|
 |448|<a href="https://velog.io/@hanseungjune/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-42%EC%84%A0-%EB%AA%A8%EC%9D%8C%EC%A7%91">기술 면접 42선 모음집</a>|2023년 7월 13일|Public|
 |447|<a href="https://velog.io/@hanseungjune/%EA%B5%AC%ED%98%84%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B2%80%EC%83%89-%EA%B2%80%EC%83%89-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%B2%80%EC%83%89-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8C%85">[구현테스트]_검색, 검색 히스토리, 검색 하이라이팅</a>|2023년 7월 12일|Public|
 |446|<a href="https://velog.io/@hanseungjune/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%AC%B8%EC%A0%9C%EC%9D%80%ED%96%8930%EC%84%A0-7">[기술면접]_프론트엔드_문제_은행_42선</a>|2023년 7월 12일|Public|
