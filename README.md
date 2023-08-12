@@ -7,7 +7,7 @@
 </div>
 
 <div>
-	<h2>👌 React를 통해서 Think를 보여주는 FE, 한승준</h2>
+	<h2>👌 React를 통해 서비스 완성도를 추구하는 FrontEnd Engineer, 한승준 입니다.</h2>
 	<header>
         <h3>1. 인터뷰 요청을 통해서 사용자들의 Think를 보여줍니다.</h3>
         <ul>
