@@ -9,7 +9,7 @@
 <div>
 	<h2>👌 React와 안정성을 연결하는 FE 한승준</h2>
 	<header>
-        <h3>💬 MSW와 Test Code를 통해서 프로젝트의 완성도를 높입니다.</h3>
+        <h3>💬 MSW와 Test Code를 통해서 프로젝트의 완성도를 높입니다</h3>
         <ul>
             <li>GET, POST, PUT, PATCH, DELETE 등의 method를 통해서 REST API를 만들 수 있습니다.</li>
             <li>로그인과 로그아웃을 통해서, 액세스 토큰을 부여할 수 있습니다.</li>
