@@ -7,28 +7,69 @@
 </div>
 
 <div>
-	<h2>👌 React와 안정성을 연결하는 FE 한승준</h2>
-	<header>
-        <h3>💬 MSW와 Test Code를 통해서 프로젝트의 완성도를 높입니다</h3>
-        <ul>
-            <li>GET, POST, PUT, PATCH, DELETE 등의 method를 통해서 REST API를 만들 수 있습니다.</li>
-            <li>로그인과 로그아웃을 통해서, 액세스 토큰을 부여할 수 있습니다.</li>
-            <li>특정 데이터의 무한 스크롤 요청과 정렬 기능을 수행할 수 있습니다.</li>
-            <li>Jest와 React-Test-Library를 통해서 컴포넌트 자체의 완성도를 높였습니다.</li>
-        </ul>
-        <h3>💬 성능 개선 Hook과 비동기 처리를 통해서 서비스의 안정성을 확보합니다.</h3>
-        <ul>
-            <li>React.memo, useCallback, useMemo를 통해서 불필요한 컴포넌트 및 객체 생성을 막고, 메모리를 관리합니다. 그래서 렌더링 부분에서 개선을 줍니다.</li>
-            <li>async/await를 통한 비동기 작업을 동기적으로 처리하여 안정적인 데이터 바인딩을 다룰 수 있게 합니다.</li>
-            <li>Redux-Saga의 function* 을 통해서 복잡한 프로세스를 처리하여 비동기 작업을 동기적으로 처리합니다.</li>
-        </ul>
-        <h3>💬 서비스가 무조건 운영될 수 있게 끊임없이 연구하고 커뮤니케이션 합니다.</h3>
-        <ul>
-            <li>프로젝트 진행 동안 저만의 ‘Shortest Learning Curve’를 통해서 항상 연구하고 공부하여 
-프로젝트를 완성하고, 스스로의 개발 성장을 이끌어 냅니다.</li>
-            <li>사용자 중심의 개발을 위해서 팀원들과의 지속적인 커뮤니케이션은 물론, 베타 테스트 및 게릴라 인터뷰를 시도하여 프로젝트의 완성도를 높입니다</li>
-        </ul>
-    </header>
+  <h2>1. 💬 Mock Service Worker와 Test-Driven-Development를 통해서 협업 강화 및 품질을 향상</h2>
+    <ul>
+	    <div>1) Mock Service Worker(MSW) 경험</div>
+	    <div>• GET, POST, PUT, PATCH, DELETE 등을 Mock Service Worker를 통해서 REST API Mocking  (비대면 공유 플랫폼 및 투두리스트 개발 시 반영)</div>
+	    <div>• 로그인/로그아웃을 통해 Access Token Mocking 가능 (중고차 거래 플랫폼 개발 시 반영)</div>
+    </ul>
+    <ul>
+	    <div>2) Mock Service Worker(MSW) 무한 스크롤 응답 및 정렬 기능 경험</div>
+	    <div>• 무한 스크롤 응답과 특정 데이터의 정렬 기능 수행 가능 (비대면 공유 플랫폼 개발 시 반영)</div>
+    </ul>
+    <ul>
+	    <div>3) Mock Service Worker(MSW) 기대 효과</div>
+	    <div>• 실제 백엔드 통신 없이 응답을 모방, 이를 통해 빠르고 안정적인 테스트 환경을 제공할 수 있음</div>
+	    <div>• 최종 사용자에게 더 높은 품질의 제품을 제공할 수 있음</div>
+	    <div>• 팀원 모두에게 일관된 테스트 환경을 제공하며 협업을 강화할 수 있음</div>
+    </ul>
+    <ul>
+	    <div>4) Test-Driven-Development(TDD) 인한 코드 품질 향상 경험</div>
+	    <div>• Jest와 React-Testing-Library로 컴포넌트의 완성도를 높임 (TodoList 사이드 프로젝트에 반영)</div>
+	    <div>• 테스트를 먼저 작성하고 코드를 개발하는 방식을 통해 견고하고 정확한 코드를 생성</div>
+	    <div>• 조기 버그 발견과 수정이 가능</div>
+	    <div>• 코드의 유지 보수를 용이하게 하며, 리팩토링 안전하게 진행 가능</div>
+    </ul>
+  <h2>2. 💬 성능 개선 및 비동기 작업 처리를 통한 안정적인 서비스 확보</h2>
+    <ul>
+       <div>1) 성능 최적화 경험</div>
+       <div>• React.memo, useCallback를 통해서 불필요한 컴포넌트 및 객체 생성을 막고, 메모리를 관리 (전체 프로젝트 개발 시 반영)</div>
+       <div>• 키오스크 홈 화면에 대한 실제로 65점에서 93점까지 성능을 올린 경험이 있음</div>
+    </ul>
+    <ul>
+       <div>2) 비동기 작업 처리 경험</div>
+       <div>• async/await를 통한 비동기 작업 처리하여 안정적인 데이터 바인딩을 다룰 수 있음 (우산 공유 플랫폼 개발 시 반영)</div>
+       <div>• Redux-Saga의 function* 을 통해서 복잡한 프로세스를 비동기 작업 처리 (중고차 거래 플랫폼 개발 시 반영)</div>
+       <div>• 규모가 커지는 프로젝트에도 유연하게 대응 가능한 기반 제공 (2가지 모두 경험했을 경우)</div>
+       <div>• 안정성 중시의 개발 경험으로 팀 내 품질 중심의 개발 문화 형성 가능</div>
+    </ul>
+    <ul>
+       <div>3) HTTP 클라이언트 통신과 데이터 바인딩 경험</div>
+       <div>• GET, POST, PUT, PATCH, DELETE등의 HTTP 클라이언트 통신을 통해서 데이터 바인딩이 가능 (전체 프로젝트 개발 시 반영)</div>
+    </ul>
+    <ul>
+       <div>4) 데이터 패칭 - fetch, axios</div>
+       <div>• fetch와 axios를 이용하여 다양한 HTTP 표준 메소드로 프로젝트를 완성 가능</div>
+	  <ul>
+	     <div>• fetch: 별도 라이브러리 설치 없음, multipart/form-data로 파일 전송 등</div>
+             <div>• axios: 오류 상태 코드 자동 처리, 오래된 브라우저 호환 등</div>
+	  </ul>
+    </ul>
+  <h2>3. 💬 서비스가 무조건 운영될 수 있게 끊임없이 연구하고 커뮤니케이션</h2>
+    <ul>
+      <div>• 꾸준히 연구하는 태도</div>
+      <div>
+	<ul>
+	  <div>• 프로젝트 진행 동안 저만의 ‘Shortest Learning Curve’를 통해서 항상 연구하고 공부하여 프로젝트를 완성하고, 스스로의 개발 성장을 이끌어 냅니다.</div>
+	</ul>   
+      </div>
+      <div>
+        <div>• 적극적인 커뮤니케이션</div>
+	<ul>
+	  <div>• 사용자 중심의 개발을 위해서 팀원들과의 지속적인 커뮤니케이션은 물론, 베타 테스트 및 게릴라 인터뷰를 시도하여 프로젝트의 완성도를 높입니다</div>
+	</ul>  
+      </div>
+    </ul>
 </div>
 
 <div>
